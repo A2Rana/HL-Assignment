@@ -1,0 +1,16 @@
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\DILayer.deps.json
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\DILayer.dll
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\DILayer.pdb
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\ModelsDTOLayer.dll
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\arana\Documents\Assignment\DILayer\bin\Debug\netcoreapp3.1\ModelsDTOLayer.pdb
+C:\Users\arana\Documents\Assignment\DILayer\obj\Debug\netcoreapp3.1\DILayer.csprojAssemblyReference.cache
+C:\Users\arana\Documents\Assignment\DILayer\obj\Debug\netcoreapp3.1\DILayer.AssemblyInfoInputs.cache
+C:\Users\arana\Documents\Assignment\DILayer\obj\Debug\netcoreapp3.1\DILayer.AssemblyInfo.cs
+C:\Users\arana\Documents\Assignment\DILayer\obj\Debug\netcoreapp3.1\DILayer.csproj.CoreCompileInputs.cache
+C:\Users\arana\Documents\Assignment\DILayer\obj\Debug\netcoreapp3.1\DILayer.csproj.CopyComplete
+C:\Users\arana\Documents\Assignment\DILayer\obj\Debug\netcoreapp3.1\DILayer.dll
+C:\Users\arana\Documents\Assignment\DILayer\obj\Debug\netcoreapp3.1\DILayer.pdb

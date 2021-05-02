@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="graphiql" Version="1.2.0" />
+	  <PackageReference Include="GraphQL" Version="2.4.0" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj" />
+    <ProjectReference Include="..\CoreLayer\ModelsDTOLayer.csproj" />
+    <ProjectReference Include="..\DILayer\DILayer.csproj" />
+    <ProjectReference Include="..\GraphQLLib\GraphQLLib.csproj" />
+  </ItemGroup>
+
+
+</Project>

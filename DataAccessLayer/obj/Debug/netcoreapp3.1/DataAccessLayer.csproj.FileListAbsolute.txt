@@ -1,0 +1,12 @@
+C:\Users\arana\Documents\Assignment\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\arana\Documents\Assignment\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\arana\Documents\Assignment\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\arana\Documents\Assignment\DataAccessLayer\bin\Debug\netcoreapp3.1\ModelsDTOLayer.dll
+C:\Users\arana\Documents\Assignment\DataAccessLayer\bin\Debug\netcoreapp3.1\ModelsDTOLayer.pdb
+C:\Users\arana\Documents\Assignment\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\arana\Documents\Assignment\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\arana\Documents\Assignment\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\arana\Documents\Assignment\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\arana\Documents\Assignment\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CopyComplete
+C:\Users\arana\Documents\Assignment\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\arana\Documents\Assignment\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

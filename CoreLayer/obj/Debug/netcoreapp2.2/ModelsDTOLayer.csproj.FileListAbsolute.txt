@@ -1,0 +1,9 @@
+C:\Users\arana\Documents\Assignment\CoreLayer\bin\Debug\netcoreapp2.2\ModelsDTOLayer.deps.json
+C:\Users\arana\Documents\Assignment\CoreLayer\bin\Debug\netcoreapp2.2\ModelsDTOLayer.dll
+C:\Users\arana\Documents\Assignment\CoreLayer\bin\Debug\netcoreapp2.2\ModelsDTOLayer.pdb
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\ModelsDTOLayer.csprojAssemblyReference.cache
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\ModelsDTOLayer.AssemblyInfoInputs.cache
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\ModelsDTOLayer.AssemblyInfo.cs
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\ModelsDTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\ModelsDTOLayer.dll
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\ModelsDTOLayer.pdb

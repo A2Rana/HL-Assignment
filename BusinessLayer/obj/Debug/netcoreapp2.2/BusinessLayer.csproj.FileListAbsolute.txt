@@ -1,0 +1,14 @@
+C:\Users\arana\Documents\Assignment\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.deps.json
+C:\Users\arana\Documents\Assignment\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\arana\Documents\Assignment\BusinessLayer\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\arana\Documents\Assignment\BusinessLayer\bin\Debug\netcoreapp2.2\DataAccessLayer.dll
+C:\Users\arana\Documents\Assignment\BusinessLayer\bin\Debug\netcoreapp2.2\DataAccessLayer.pdb
+C:\Users\arana\Documents\Assignment\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\arana\Documents\Assignment\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\arana\Documents\Assignment\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.AssemblyInfo.cs
+C:\Users\arana\Documents\Assignment\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\arana\Documents\Assignment\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.csproj.CopyComplete
+C:\Users\arana\Documents\Assignment\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\arana\Documents\Assignment\BusinessLayer\obj\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\arana\Documents\Assignment\BusinessLayer\bin\Debug\netcoreapp2.2\ModelsDTOLayer.dll
+C:\Users\arana\Documents\Assignment\BusinessLayer\bin\Debug\netcoreapp2.2\ModelsDTOLayer.pdb

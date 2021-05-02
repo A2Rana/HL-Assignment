@@ -1,0 +1,14 @@
+C:\Users\arana\Documents\Assignment\GraphQLLib\bin\Debug\netcoreapp3.1\GraphQLLib.deps.json
+C:\Users\arana\Documents\Assignment\GraphQLLib\bin\Debug\netcoreapp3.1\GraphQLLib.dll
+C:\Users\arana\Documents\Assignment\GraphQLLib\bin\Debug\netcoreapp3.1\GraphQLLib.pdb
+C:\Users\arana\Documents\Assignment\GraphQLLib\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\arana\Documents\Assignment\GraphQLLib\bin\Debug\netcoreapp3.1\ModelsDTOLayer.dll
+C:\Users\arana\Documents\Assignment\GraphQLLib\bin\Debug\netcoreapp3.1\ModelsDTOLayer.pdb
+C:\Users\arana\Documents\Assignment\GraphQLLib\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\arana\Documents\Assignment\GraphQLLib\obj\Debug\netcoreapp3.1\GraphQLLib.csprojAssemblyReference.cache
+C:\Users\arana\Documents\Assignment\GraphQLLib\obj\Debug\netcoreapp3.1\GraphQLLib.AssemblyInfoInputs.cache
+C:\Users\arana\Documents\Assignment\GraphQLLib\obj\Debug\netcoreapp3.1\GraphQLLib.AssemblyInfo.cs
+C:\Users\arana\Documents\Assignment\GraphQLLib\obj\Debug\netcoreapp3.1\GraphQLLib.csproj.CoreCompileInputs.cache
+C:\Users\arana\Documents\Assignment\GraphQLLib\obj\Debug\netcoreapp3.1\GraphQLLib.csproj.CopyComplete
+C:\Users\arana\Documents\Assignment\GraphQLLib\obj\Debug\netcoreapp3.1\GraphQLLib.dll
+C:\Users\arana\Documents\Assignment\GraphQLLib\obj\Debug\netcoreapp3.1\GraphQLLib.pdb

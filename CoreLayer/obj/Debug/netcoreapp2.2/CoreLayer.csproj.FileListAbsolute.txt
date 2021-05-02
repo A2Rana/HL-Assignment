@@ -1,0 +1,9 @@
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\CoreLayer.csprojAssemblyReference.cache
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\CoreLayer.AssemblyInfo.cs
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\arana\Documents\Assignment\CoreLayer\bin\Debug\netcoreapp2.2\CoreLayer.deps.json
+C:\Users\arana\Documents\Assignment\CoreLayer\bin\Debug\netcoreapp2.2\CoreLayer.dll
+C:\Users\arana\Documents\Assignment\CoreLayer\bin\Debug\netcoreapp2.2\CoreLayer.pdb
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\CoreLayer.dll
+C:\Users\arana\Documents\Assignment\CoreLayer\obj\Debug\netcoreapp2.2\CoreLayer.pdb
